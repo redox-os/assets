@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="79.999992mm"
+   width="80.67498mm"
    height="84mm"
-   viewBox="0 0 79.999992 84"
+   viewBox="0 0 80.67498 84"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="icon.svg">
+   sodipodi:docname="normal.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="180.25174"
+     inkscape:cx="27.241582"
      inkscape:cy="157.07144"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,16 +52,16 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-100,-115)">
+     transform="translate(-99.662509,-115)">
     <ellipse
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.67501301;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.35000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3722"
        cx="140"
        cy="157"
        rx="39.662491"
        ry="39.662495" />
     <circle
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.67500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.35000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3722-3"
        cx="140.08437"
        cy="156.91563"
