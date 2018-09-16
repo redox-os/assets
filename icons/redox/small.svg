@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="62.193741mm"
-   height="65.013008mm"
-   viewBox="0 0 62.19374 65.013009"
+   width="16.000399mm"
+   height="17.153002mm"
+   viewBox="0 0 16.000398 17.153002"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="-50.169889"
-     inkscape:cy="117.97467"
+     inkscape:zoom="5.6"
+     inkscape:cx="-22.319114"
+     inkscape:cy="42.632452"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1" />
   <metadata
@@ -52,21 +52,21 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-108.9875,-122.9995)">
+     transform="translate(-132.08417,-143.36569)">
     <circle
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.70000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3722-3"
        cx="140.08437"
-       cy="156.91563"
-       r="29.74687" />
+       cy="152.51849"
+       r="7.6526995" />
     <circle
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.90500271;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#000019;fill-opacity:1;stroke:#000000;stroke-width:0.33937511;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4547-7"
-       cx="139.9995"
-       cy="126.9995"
-       r="3.5474987" />
+       cx="140.08417"
+       cy="144.86569"
+       r="1.3303125" />
     <g
-       transform="matrix(0.68434559,0,0,0.69592109,44.617198,73.240143)"
+       transform="matrix(0.1710864,0,0,0.17398027,116.23867,131.57854)"
        style="display:inline"
        id="text10003">
       <path
